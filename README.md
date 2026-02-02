@@ -13,7 +13,7 @@
 - [CIFER10 vs CIFAKE10](https://github.com/Anjaas85/CIFAR10_vs_CIFAKE): This project compares ResNet and DenseNet performance on CIFAR-10 and CIFAKE-10 datasets, analyzing model robustness and accuracy differences between real and synthetic image data.
 ## Bachelor's Projects
 
-- [Compiler for Serbian-Pascal to Assembly](): This project implements a compiler for a Serbian-language variant of Pascal, translating source code into executable assembly. The implementation includes a lexer, parser, and semantic actions using Flex, Yacc, and C++.
+- [Compiler for Serbian-Pascal to Assembly](https://github.com/Anjaas85/serbscal): This project implements a compiler for a Serbian-language variant of Pascal, translating source code into executable assembly. The implementation includes a lexer, parser, and semantic actions using Flex, Yacc, and C++.
 - [Charity Donation Android POS Application](https://github.com/tanjagavric/it.girls)): This project developed an Android POS application enabling customers to donate to charity while paying at the cash desk. The interface and database were implemented in Java, and the project won second prize at the Belgrade Payten Hackathon 2023.
 - [Association Game in Kotlin](https://github.com/matf-pp/2023_Asocijacije): This project develops an association game with a fully implemented frontend, backend, and database using Kotlin.
 
